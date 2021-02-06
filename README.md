@@ -1,8 +1,6 @@
 # Python Basics Cheatsheat 🐍
 
-[TOC]
-
-Quick Summary: This will help you learn the syntax of python very quickly. 😀
+> Quick Summary: This will help you learn the syntax of python very quickly. 😀
 
 ##Printing
 
