@@ -2,7 +2,7 @@
 
 > Quick Summary: This will help you learn the syntax of python very quickly. 😀
 
-##Printing
+## Printing
 
 ```python
 print("Hello World") #--> Hello World
